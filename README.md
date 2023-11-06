@@ -1,8 +1,7 @@
     
 # Application Automation With Appium Pyhton
 <code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/master/icons/python.svg"></code>
-<code><img height="30" src="https://freeicons.io/vector-and-svg-logos-01/appium-icon-2441"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/master/icons/android.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/master/icons/firebase.svg"></code>
 
@@ -33,7 +32,7 @@ Selenium Automation Framework Navigation.
 
 
 ## :zap: Usage
-Automating WebApps Using Selenium.
+Automating WebApps Using Selenium python Client
 
 ###  :electric_plug: Installation
 - Steps on desired capabilities to invoke the APK applications.
