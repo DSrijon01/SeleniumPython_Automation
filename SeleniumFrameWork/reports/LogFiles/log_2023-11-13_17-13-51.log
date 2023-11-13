@@ -1,0 +1,4 @@
+2023-11-13 17:13:53 - WebDriverClass_2023-11-13_17-13-51 - INFO: Chrome Driver is initializing
+2023-11-13 17:13:56 - BaseClass_2023-11-13_17-13-51 - INFO: Web Page Launched with URL: http://www.dummypoint.com/seleniumtemplate.html Selenium Template
+2023-11-13 17:13:56 - BaseClass_2023-11-13_17-13-51 - INFO: WebElement found with locator value Form using locatorType link
+2023-11-13 17:13:57 - BaseClass_2023-11-13_17-13-51 - INFO: Clicked on WebElement with locator value Form using locatorType link

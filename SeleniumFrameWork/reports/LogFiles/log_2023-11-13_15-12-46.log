@@ -1,0 +1,6 @@
+2023-11-13 15:12:48 - WebDriverClass_2023-11-13_15-12-46 - INFO: Chrome Driver is initializing
+2023-11-13 15:12:51 - BaseClass_2023-11-13_15-12-46 - INFO: Web Page Launched with URL: http://www.dummypoint.com/seleniumtemplate.html Selenium Template
+2023-11-13 15:12:51 - BaseClass_2023-11-13_15-12-46 - INFO: WebElement found with locator value user_input using locatorType id
+2023-11-13 15:12:51 - BaseClass_2023-11-13_15-12-46 - INFO: Sent the text Srijon in WebElement with locator value user_input using locatorType id
+2023-11-13 15:13:21 - BaseClass_2023-11-13_15-12-46 - ERROR: WebElement not found with locator value Button2 using locatorType name
+2023-11-13 15:13:21 - BaseClass_2023-11-13_15-12-46 - ERROR: Unable to Click on WebElement with locator value Button2 using locatorType name
