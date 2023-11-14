@@ -1,0 +1,13 @@
+2023-11-14 15:29:02 - WebDriverClass_2023-11-14_15-29-00 - INFO: Chrome Driver is initializing
+2023-11-14 15:29:04 - BaseClass_2023-11-14_15-29-00 - INFO: Web Page Not Launched with URL: http://www.dummypoint.com/ Selenium Template
+2023-11-14 15:29:34 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value name using locatorType id
+2023-11-14 15:29:34 - BaseClass_2023-11-14_15-29-00 - ERROR: Unable to Sent the text Srijon in WebElement with locator value nameusing locatorType id
+2023-11-14 15:30:00 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value email using locatorType id
+2023-11-14 15:30:00 - BaseClass_2023-11-14_15-29-00 - ERROR: Unable to Sent the text Srijon@gmail.com in WebElement with locator value emailusing locatorType id
+2023-11-14 15:30:25 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value message using locatorType id
+2023-11-14 15:30:25 - BaseClass_2023-11-14_15-29-00 - ERROR: Unable to Sent the text This is Srijon in WebElement with locator value messageusing locatorType id
+2023-11-14 15:30:51 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value captcha_image using locatorType id
+2023-11-14 15:31:16 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value Form using locatorType link
+2023-11-14 15:31:16 - BaseClass_2023-11-14_15-29-00 - ERROR: Unable to Click on WebElement with locator value Form using locatorType link
+2023-11-14 15:31:41 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement not found with locator value reused_form using locatorType id
+2023-11-14 15:31:41 - BaseClass_2023-11-14_15-29-00 - ERROR: WebElement is not Displayed on web page with locator value reused_form using locatorType id

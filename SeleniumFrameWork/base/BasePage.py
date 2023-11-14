@@ -1,4 +1,4 @@
-from datetime import time
+import time
 from datetime import datetime
 from traceback import print_stack
 from allure_commons.types import AttachmentType
@@ -149,8 +149,21 @@ class BaseClass:
             print_stack()
 
     ## Save Screenshots method
+    # def screenShot(self, screenshotName):
+    #     fileName = screenshotName + "_" + (datetime.now().strftime("%d_%m_%y_%H_%M_%S")) + ".png"
+    #     screenshotDirectory = "../screenshots/"
+    #     screenshotPath = screenshotDirectory + fileName
+    #     try:
+    #         self.driver.save_screenshot(screenshotPath)
+    #         self.log.info("Screenshot saved to path: " + screenshotPath)
+    #     except:
+    #         self.log.info("Unable to save screenshot to the path: " + screenshotPath)
+
     def screenShot(self, screenshotName):
-        fileName = screenshotName + "_" + (datetime.now().strftime("%d_%m_%y_%H_%M_%S")) + ".png"
+        current_time = datetime.now()
+        print("Current time:", current_time)  # Add this line to print the current time
+
+        fileName = screenshotName + "_" + (current_time.strftime("%d_%m_%y_%H_%M_%S")) + ".png"
         screenshotDirectory = "../screenshots/"
         screenshotPath = screenshotDirectory + fileName
         try:

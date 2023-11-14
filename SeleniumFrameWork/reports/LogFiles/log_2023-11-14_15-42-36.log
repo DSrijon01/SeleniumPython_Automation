@@ -1,0 +1,9 @@
+2023-11-14 15:42:38 - WebDriverClass_2023-11-14_15-42-36 - INFO: Chrome Driver is initializing
+2023-11-14 15:42:40 - BaseClass_2023-11-14_15-42-36 - INFO: Web Page Launched with URL: http://www.dummypoint.com/seleniumtemplate.html Selenium Template
+2023-11-14 15:43:10 - BaseClass_2023-11-14_15-42-36 - ERROR: WebElement not found with locator value name using locatorType id
+2023-11-14 15:43:10 - BaseClass_2023-11-14_15-42-36 - ERROR: Unable to Sent the text Srijon in WebElement with locator value nameusing locatorType id
+2023-11-14 15:43:21 - BaseClass_2023-11-14_15-42-36 - ERROR: WebElement not found with locator value email using locatorType id
+2023-11-14 15:43:21 - BaseClass_2023-11-14_15-42-36 - ERROR: Unable to Sent the text Srijon@gmail.com in WebElement with locator value emailusing locatorType id
+2023-11-14 15:43:23 - BaseClass_2023-11-14_15-42-36 - ERROR: WebElement not found with locator value message using locatorType id
+2023-11-14 15:43:23 - BaseClass_2023-11-14_15-42-36 - ERROR: Unable to Sent the text This is Srijon in WebElement with locator value messageusing locatorType id
+2023-11-14 15:43:26 - BaseClass_2023-11-14_15-42-36 - ERROR: WebElement not found with locator value captcha_image using locatorType id

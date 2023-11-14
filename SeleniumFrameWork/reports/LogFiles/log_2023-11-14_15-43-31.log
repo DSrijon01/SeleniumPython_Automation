@@ -1,0 +1,21 @@
+2023-11-14 15:43:33 - WebDriverClass_2023-11-14_15-43-31 - INFO: Chrome Driver is initializing
+2023-11-14 15:43:35 - BaseClass_2023-11-14_15-43-31 - INFO: Web Page Launched with URL: http://www.dummypoint.com/seleniumtemplate.html Selenium Template
+2023-11-14 15:44:08 - BaseClass_2023-11-14_15-43-31 - ERROR: WebElement not found with locator value name using locatorType id
+2023-11-14 15:44:08 - BaseClass_2023-11-14_15-43-31 - ERROR: Unable to Sent the text Srijon in WebElement with locator value nameusing locatorType id
+2023-11-14 15:44:33 - BaseClass_2023-11-14_15-43-31 - ERROR: WebElement not found with locator value email using locatorType id
+2023-11-14 15:44:33 - BaseClass_2023-11-14_15-43-31 - ERROR: Unable to Sent the text Srijon@gmail.com in WebElement with locator value emailusing locatorType id
+2023-11-14 15:44:58 - BaseClass_2023-11-14_15-43-31 - ERROR: WebElement not found with locator value message using locatorType id
+2023-11-14 15:44:58 - BaseClass_2023-11-14_15-43-31 - ERROR: Unable to Sent the text This is Srijon in WebElement with locator value messageusing locatorType id
+2023-11-14 15:45:11 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value captcha_image using locatorType id
+2023-11-14 15:45:11 - BaseClass_2023-11-14_15-43-31 - INFO: Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+2023-11-14 15:45:11 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value captcha using locatorType id
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: Screenshot saved to path: ../screenshots/Form Submission Completed With ConfTest_14_11_23_15_45_12.png
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value btnContactUs using locatorType id
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: Scrolled to WebElement with locator value btnContactUs using locatorType id
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value btnContactUs using locatorType id
+2023-11-14 15:45:12 - BaseClass_2023-11-14_15-43-31 - INFO: Clicked on WebElement with locator value btnContactUs using locatorType id
+2023-11-14 15:45:17 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value Form using locatorType link
+2023-11-14 15:45:17 - BaseClass_2023-11-14_15-43-31 - INFO: Clicked on WebElement with locator value Form using locatorType link
+2023-11-14 15:45:17 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement found with locator value reused_form using locatorType id
+2023-11-14 15:45:17 - BaseClass_2023-11-14_15-43-31 - INFO: WebElement is Displayed on web page with locator value reused_form using locatorType id
