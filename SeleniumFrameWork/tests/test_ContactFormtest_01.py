@@ -17,18 +17,21 @@ class ContactFormTest(unittest.TestCase):
     @pytest.mark.run(order=1)
     def test_formPage(self):
         time.sleep(5)
+        cl.allureLogs("App Opened")
         self.cf.clickContactForm()
         self.cf.verifyFormPage()
 
     @pytest.mark.run(order=2)
     def test_enterDataInForm(self):
         time.sleep(5)
+        cl.allureLogs("Entered Data in Form")
         self.cf.enterName()
         self.cf.enterEmail()
         self.cf.selectGender()
         self.cf.enterMessage()
         self.cf.enterCaptcha()
         self.cf.screenShot("Form Submission Completed With ConfTest")
+        self.cf.takeScreenshot("Test Successfully Ran Allure Screenshot")
         self.cf.clickOnPostButton()
 
 
