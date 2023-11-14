@@ -1,0 +1,24 @@
+2023-11-14 13:12:47 - WebDriverClass_2023-11-14_13-12-45 - INFO: Chrome Driver is initializing
+2023-11-14 13:12:48 - BaseClass_2023-11-14_13-12-45 - INFO: Web Page Launched with URL: http://www.dummypoint.com/seleniumtemplate.html Selenium Template
+2023-11-14 13:12:48 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value Form using locatorType link
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Clicked on WebElement with locator value Form using locatorType link
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value reused_form using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement is Displayed on web page with locator value reused_form using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value name using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Sent the text Srijon in WebElement with locator value name using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value email using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Sent the text Srijon@gmail.com in WebElement with locator value email using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value input.form-radio:nth-child(2) using locatorType css
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Clicked on WebElement with locator value input.form-radio:nth-child(2) using locatorType css
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value message using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Sent the text This is Srijon in WebElement with locator value message using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value captcha_image using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value captcha_image using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value captcha using locatorType id
+2023-11-14 13:12:50 - BaseClass_2023-11-14_13-12-45 - INFO: Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+2023-11-14 13:12:51 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value btnContactUs using locatorType id
+2023-11-14 13:12:51 - BaseClass_2023-11-14_13-12-45 - INFO: Scrolled to WebElement with locator value btnContactUs using locatorType id
+2023-11-14 13:12:51 - BaseClass_2023-11-14_13-12-45 - INFO: WebElement found with locator value btnContactUs using locatorType id
+2023-11-14 13:12:51 - BaseClass_2023-11-14_13-12-45 - INFO: Clicked on WebElement with locator value btnContactUs using locatorType id

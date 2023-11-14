@@ -1,3 +1,5 @@
+from datetime import time
+from datetime import datetime
 from traceback import print_stack
 from allure_commons.types import AttachmentType
 from selenium.common.exceptions import ElementNotVisibleException, NoSuchElementException
@@ -147,3 +149,16 @@ class BaseClass:
             print_stack()
 
     ## Save Screenshots method
+    def screenShot(self, screenshotName):
+        fileName = screenshotName + "_" + (datetime.now().strftime("%d_%m_%y_%H_%M_%S")) + ".png"
+        screenshotDirectory = "../screenshots/"
+        screenshotPath = screenshotDirectory + fileName
+        try:
+            self.driver.save_screenshot(screenshotPath)
+            self.log.info("Screenshot saved to path: " + screenshotPath)
+        except:
+            self.log.info("Unable to save screenshot to the path: " + screenshotPath)
+
+    ## Save Screen shots Using Allure Reporting
+    def takeScreenshot(self,text):
+        allure.attach(self.driver.get_screenshot_as_png(),name=text, attachment_type=AttachmentType.PNG)

@@ -34,6 +34,8 @@ cf.getCaptcha()
 
 cf.enterCaptcha()
 
+cf.screenShot("Form Submission Completed")
+
 cf.clickOnPostButton()
 
 
